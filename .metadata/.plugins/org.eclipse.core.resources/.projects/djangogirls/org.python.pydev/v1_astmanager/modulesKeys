@@ -1,0 +1,7 @@
+MODULES_MANAGER_V3
+djangogirls.__init__|C:\eclipse\django_1\djangogirls\src\djangogirls\__init__.py
+djangogirls.asgi|C:\eclipse\django_1\djangogirls\src\djangogirls\asgi.py
+djangogirls.settings|C:\eclipse\django_1\djangogirls\src\djangogirls\settings.py
+djangogirls.urls|C:\eclipse\django_1\djangogirls\src\djangogirls\urls.py
+djangogirls.wsgi|C:\eclipse\django_1\djangogirls\src\djangogirls\wsgi.py
+manage|C:\eclipse\django_1\djangogirls\src\manage.py
