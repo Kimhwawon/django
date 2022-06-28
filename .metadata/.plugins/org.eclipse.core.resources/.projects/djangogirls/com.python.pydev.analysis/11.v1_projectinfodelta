@@ -1,8 +1,7 @@
-INSTUPblog.apps
-C:\eclipse\django_1\djangogirls\src\blog\apps.py
-INFOS:&&1|1|2|0|3|4|7&&3|4|2|1|3|5|5&&3|5|2|1|3|6|5
-blog.apps=2
-BlogConfig=1
-C:\eclipse\django_1\djangogirls\src\blog\apps.py=3
-name=5
-default_auto_field=4
+INSTUPblog.views
+C:\eclipse\django_1\djangogirls\src\blog\views.py
+INFOS:&&2|1|2|0|3|8|5&&2|4|2|0|3|12|5
+post_list=1
+C:\eclipse\django_1\djangogirls\src\blog\views.py=3
+test_page=4
+blog.views=2

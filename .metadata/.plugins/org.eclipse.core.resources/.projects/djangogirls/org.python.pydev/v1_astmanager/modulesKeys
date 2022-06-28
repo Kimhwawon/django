@@ -1,4 +1,17 @@
 MODULES_MANAGER_V3
+blog.__init__|C:\eclipse\django_1\djangogirls\src\blog\__init__.py
+blog.admin|C:\eclipse\django_1\djangogirls\src\blog\admin.py
+blog.apps|C:\eclipse\django_1\djangogirls\src\blog\apps.py
+blog.migrations.0001_initial|C:\eclipse\django_1\djangogirls\src\blog\migrations\0001_initial.py
+blog.migrations.__init__|C:\eclipse\django_1\djangogirls\src\blog\migrations\__init__.py
+blog.models|C:\eclipse\django_1\djangogirls\src\blog\models.py
+blog.static.__init__|C:\eclipse\django_1\djangogirls\src\blog\static\__init__.py
+blog.static.css.__init__|C:\eclipse\django_1\djangogirls\src\blog\static\css\__init__.py
+blog.templates.__init__|C:\eclipse\django_1\djangogirls\src\blog\templates\__init__.py
+blog.templates.blog.__init__|C:\eclipse\django_1\djangogirls\src\blog\templates\blog\__init__.py
+blog.tests|C:\eclipse\django_1\djangogirls\src\blog\tests.py
+blog.urls|C:\eclipse\django_1\djangogirls\src\blog\urls.py
+blog.views|C:\eclipse\django_1\djangogirls\src\blog\views.py
 djangogirls.__init__|C:\eclipse\django_1\djangogirls\src\djangogirls\__init__.py
 djangogirls.asgi|C:\eclipse\django_1\djangogirls\src\djangogirls\asgi.py
 djangogirls.settings|C:\eclipse\django_1\djangogirls\src\djangogirls\settings.py

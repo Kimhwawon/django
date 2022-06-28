@@ -1,13 +1,88 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\eclipse\django_1\.metadata\.plugins\org.eclipse.core.resources\.projects\djangogirls\com.python.pydev.analysis\v2_indexcache
+blog.apps|1656300207010996000|C:\eclipse\django_1\djangogirls\src\blog\apps.py
+djangogirls.__init__|1656297308786980000|C:\eclipse\django_1\djangogirls\src\djangogirls\__init__.py
+djangogirls.asgi|1656297308781998000|C:\eclipse\django_1\djangogirls\src\djangogirls\asgi.py
+djangogirls.wsgi|1656297308786980000|C:\eclipse\django_1\djangogirls\src\djangogirls\wsgi.py
+blog.models|1656381051973310000|C:\eclipse\django_1\djangogirls\src\blog\models.py
+blog.templates.__init__|1656311676704657000|C:\eclipse\django_1\djangogirls\src\blog\templates\__init__.py
+blog.tests|1656300207030912000|C:\eclipse\django_1\djangogirls\src\blog\tests.py
+blog.migrations.0001_initial|1656301757747994000|C:\eclipse\django_1\djangogirls\src\blog\migrations\0001_initial.py
+blog.admin|1656307364105952000|C:\eclipse\django_1\djangogirls\src\blog\admin.py
+djangogirls.settings|1656306586749694000|C:\eclipse\django_1\djangogirls\src\djangogirls\settings.py
+blog.views|1656384008092377000|C:\eclipse\django_1\djangogirls\src\blog\views.py
+blog.templates.blog.__init__|1656311767086226000|C:\eclipse\django_1\djangogirls\src\blog\templates\blog\__init__.py
+manage|1656297308780099000|C:\eclipse\django_1\djangogirls\src\manage.py
+blog.__init__|1656300207043903000|C:\eclipse\django_1\djangogirls\src\blog\__init__.py
+blog.urls|1656381639531492000|C:\eclipse\django_1\djangogirls\src\blog\urls.py
+djangogirls.urls|1656310512322550000|C:\eclipse\django_1\djangogirls\src\djangogirls\urls.py
+blog.migrations.__init__|1656300207045063000|C:\eclipse\django_1\djangogirls\src\blog\migrations\__init__.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+24
+4=djangogirls.asgi
+6=djangogirls.wsgi
+8=blog.apps
+9=C:\eclipse\django_1\djangogirls\src\manage.py
+16=blog.models
+7=C:\eclipse\django_1\djangogirls\src\blog\apps.py
+19=C:\eclipse\django_1\djangogirls\src\djangogirls\urls.py
+12=blog.migrations.0001_initial
+21=Post
+23=Migration
+13=C:\eclipse\django_1\djangogirls\src\blog\views.py
+2=djangogirls.settings
+14=blog.views
+10=manage
+17=C:\eclipse\django_1\djangogirls\src\blog\urls.py
+22=BlogConfig
+5=C:\eclipse\django_1\djangogirls\src\djangogirls\wsgi.py
+11=C:\eclipse\django_1\djangogirls\src\blog\migrations\0001_initial.py
+18=blog.urls
+1=C:\eclipse\django_1\djangogirls\src\djangogirls\settings.py
+3=C:\eclipse\django_1\djangogirls\src\djangogirls\asgi.py
+20=djangogirls.urls
+24=Post.publish
+15=C:\eclipse\django_1\djangogirls\src\blog\models.py
 -- END DICTIONARY
 -- START TREE 1
-0
+23
+all|1|ALLOWED_HOSTS!1^29#1*19@
+app|2|application!3^16#1*35@application!5^16#1*51@
+aut|1|AUTH_PASSWORD_VALIDATORS!1^102#1*19@
+bas|1|BASE_DIR!1^17#1*19@
+blo|1|BlogConfig!7^4#7*65@
+dat|1|DATABASES!1^83#1*19@
+deb|1|DEBUG!1^27#1*19@
+def|1|DEFAULT_AUTO_FIELD!1^126#1*19@
+ins|1|INSTALLED_APPS!1^42#1*19@
+lan|1|LANGUAGE_CODE!1^108#1*19@
+mai|1|main!9^7#5*82@
+mid|1|MIDDLEWARE!1^52#1*19@
+mig|1|Migration!11^9#7*97@
+pos|2|post_list!13^7#5*114@Post!15^5#7*129@
+roo|1|ROOT_URLCONF!1^54#1*19@
+sec|1|SECRET_KEY!1^24#1*19@
+sta|2|STATIC_URL!1^120#1*19@STATIC_ROOT!1^121#1*19@
+tem|1|TEMPLATES!1^70#1*19@
+tes|1|test_page!13^11#5*114@
+tim|1|TIME_ZONE!1^110#1*19@
+url|2|urlpatterns!17^12#1*147@urlpatterns!19^28#1*163@
+use|2|USE_I18N!1^112#1*19@USE_TZ!1^114#1*19@
+wsg|1|WSGI_APPLICATION!1^72#1*19@
 -- END TREE
 -- START TREE 2
-0
+11
+__s|1|__str__!21&15^23#9*130@
+aut|1|author!21&15^6#5*131@
+cre|1|created_date!21&15^10#5*131@
+def|1|default_auto_field!22&7^5#5*67@
+dep|1|dependencies!23&11^15#5*99@
+ini|1|initial!23&11^11#5*99@
+nam|1|name!22&7^6#5*67@
+ope|1|operations!23&11^29#5*99@
+pub|3|publish!21&15^14#9*130@published_date!21&15^12#5*131@published_date!24&15^15#9*131@
+tex|1|text!21&15^8#5*131@
+tit|1|title!21&15^7#5*131@
 -- END TREE

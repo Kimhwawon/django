@@ -1,0 +1,10 @@
+from django.contrib import admin
+from django.urls import path
+# 장고 2버전으로 오면서 include는 urls.conf로 이전됨
+from django.urls.conf import include
+from blog import views
+
+urlpatterns = [
+    path('', views.post_list, name='post_list'),    
+    path('test/', views.post_list, name='post_list'),
+    ]

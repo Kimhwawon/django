@@ -18,6 +18,9 @@ class Post(models.Model):
         self.save()
         
     # admin 페이지에서 노출될 데이터의 종류를 지정   
+    # 조회의 결과인 QuerySet에서도 마찬가지로 적용됨
+    # 제목 : (self.title), 글쓴이 : 저자, 게시날짜 : 게시날짜가 나오도록 해주세요. 
     def __str__(self):
-        return self.title
+        return "제목 : %s, 글쓴이 : %s, 게시날짜 : %s" % (
+                self.title, self.author, self.published_date)
     
